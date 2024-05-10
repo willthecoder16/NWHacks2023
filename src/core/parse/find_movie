@@ -1,0 +1,20 @@
+
+
+from game_parser import *
+
+
+def __init__():
+        a = ""
+
+def makeGame():
+    test = GameList()
+    test.add_game("asd", "xcv")
+    print(test.get_games)
+    return
+
+makeGame()
+
+
+
+
+
